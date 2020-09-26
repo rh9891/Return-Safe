@@ -60,9 +60,11 @@ The following images display the login and registration components for the user:
 
 The following animation demonstrates the complete application functionality:
 
-![Return Safe Functionality Preview](https://github.com/asharma1398/Return-Safe/blob/master/assets/videos/returnSafeFunctionalityPreview.gif)
+<p align="center">
+  <img src="https://github.com/rh9891/ReturnSafe/blob/master/assets/videos/returnSafeFunctionalityPreview.gif">
+</p>
 
-To download the above video file of the application functionality, you may do so [here](https://github.com/asharma1398/Return-Safe/blob/master/assets/videos/returnSafeFunctionalityPreview.mp4).
+To download the above video file of the application functionality, you may do so [here](https://github.com/rh9891/ReturnSafe/blob/master/assets/videos/returnSafeFunctionalityPreview.mp4).
 
 ## Contributors
 
