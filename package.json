@@ -1,5 +1,5 @@
 {
-  "name": "returnSafe",
+  "name": "ReturnSafe",
   "version": "1.0.0",
   "description": "A contact tracing web application that tracks user’s locations and allows them to conduct daily symptom check ins.",
   "main": "server.js",
@@ -14,7 +14,7 @@
     "heroku-postbuild": "npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Romie Hecdivert, Susan Holland, Alex Reichard, and Aakanksha Sharma",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^4.1.0",
